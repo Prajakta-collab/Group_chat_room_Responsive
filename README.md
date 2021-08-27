@@ -36,8 +36,7 @@
 
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-</p>
+
 <br />
 
 ### How to Create a Flutter Web project
