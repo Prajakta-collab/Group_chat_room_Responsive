@@ -41,15 +41,21 @@
 
 ### How to Create a Flutter Web project
 
-You need to download flutter package in your system first , refer this link- (https://flutter.dev/docs/get-started/install)
+1.You need to download flutter package in your system first , refer this link- https://flutter.dev/docs/get-started/install <br />
+2.Extract the zip folder to your C drive <br />
+3.then add "flutter/bin " this path of your to environmental variable of system. 
+
  <br />
- switch to the master channel run the following command
+ switch to the master channel run the following command in your command prompt<br />
+ First run this command - "cd <directory-path-where-your-is> "
+ <br />
 
  ``1. flutter channel master``  <br />
  Then upgrade your flutter to the latest version from master.  <br />
 `` 2. flutter upgrade``  <br />
 Then enable web support.  <br />
 `` 3. flutter config --enable-web``  <br />
+ ``4. To run on browswer run this - flutter run -d chrome `` <br />
 
 Now when you create a project it'll be web enabled and you can run it in the browser. to verify that run this cmd. <br />
 
