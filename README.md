@@ -41,7 +41,7 @@
 
 ### How to Create a Flutter Web project
 
-
+You need to download flutter package in your system first , refer this link- (https://flutter.dev/docs/get-started/install)
  <br />
  switch to the master channel run the following command
 
