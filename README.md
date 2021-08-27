@@ -47,7 +47,7 @@
 
  <br />
  switch to the master channel run the following command in your command prompt<br />
- First run this command - "cd <directory-path-where-your-is> "
+ First run this command - ``cd directory-path-where-your-is ``
  <br />
 
  ``1. flutter channel master``  <br />
