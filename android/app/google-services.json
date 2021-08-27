@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731775766874",
+    "project_id": "fluttergroupchatroom-46599",
+    "storage_bucket": "fluttergroupchatroom-46599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731775766874:android:50bebe4ef7735653a2e363",
+        "android_client_info": {
+          "package_name": "com.sneprabulidcon.group_chat_room_responsive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731775766874-kccmr5dk2gvf6fbtfup9ftrr4p1dh07i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByOuCikMvDVVHc2v7Ix_log7Kxmg3kcUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731775766874-kccmr5dk2gvf6fbtfup9ftrr4p1dh07i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
